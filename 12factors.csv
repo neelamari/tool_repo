@@ -1,4 +1,4 @@
-appName,codebase,dependencies,config,backingServices,buildReleaseRun,processes,portBinding,concurrency,disposability,devProdParitylogs,,admin
+appName,codebase,dependencies,config,backingServices,buildReleaseRun,processes,portBinding,concurrency,disposability,devProdParity,logs,admin
 M2-Accounts,2,3,1,2,3,3,3,1,2,3,1,1
 M2-Payments,2,3,1,1,2,2,3,1,2,3,1,1
 M2-MessageCenter,2,3,1,2,1,2,2,1,1,2,1,1
